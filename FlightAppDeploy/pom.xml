@@ -113,13 +113,13 @@
 					<source>1.7</source>
 					<target>1.7</target>
 				
-        <archive>
-          <manifest>
-            <addClasspath>true</addClasspath>
-            <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.synechron.proc.boot</mainClass>
-          </manifest>
-        </archive>
+<!--         <archive> -->
+<!--           <manifest> -->
+<!--             <addClasspath>true</addClasspath> -->
+<!--             <classpathPrefix>lib/</classpathPrefix> -->
+<!--             <mainClass>com.synechron.proc.boot</mainClass> -->
+<!--           </manifest> -->
+<!--         </archive> -->
       </configuration>
 			</plugin>
 		</plugins>
